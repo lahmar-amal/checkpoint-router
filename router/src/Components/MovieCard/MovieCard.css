@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.img {
+    width: 20rem;
+    height: 26rem;
+}
+.but {
+    margin-bottom: 10px;
+}
